@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "280044368064",
+    "firebase_url": "https://crud-deber-default-rtdb.firebaseio.com",
+    "project_id": "crud-deber",
+    "storage_bucket": "crud-deber.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280044368064:android:8fd8b12b2f4eae97b4fd25",
+        "android_client_info": {
+          "package_name": "com.example.deber_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgYAld9tMG4GAOD3Uv2azfkj2DI4kh9ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
